@@ -94,12 +94,12 @@ export const Navbar = () => {
         </a>
       </li>
       <li className='w-[150px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[1px] duration-300 bg-[#be185d]'>
-        <a className='flex justify-between items-center w-full text-grey-300 ' href='/' target="_blank">
+        <a className='flex justify-between items-center w-full text-grey-300 ' href='https://www.instagram.com/fola_codes/' target="_blank">
           Instagram <FaInstagram size={30} />
         </a>
       </li>
       <li className='w-[150px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[1px] duration-300 bg-black'>
-        <a className='flex justify-between items-center w-full text-grey-300 ' href='/' target="_blank">
+        <a className='flex justify-between items-center w-full text-grey-300 ' href='https://github.com/Folanuel' target="_blank">
           Github <FaGithub size={30} color= 'white' />
         </a>
       </li>
