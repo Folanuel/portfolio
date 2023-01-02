@@ -1,6 +1,6 @@
 import React from 'react'
 import AlofPizza from '../assets/AlofPizzeria.png'
-
+import FolaBlog from '../assets/folablog.png'
 import Elearning from '../assets/E-learning.png'
 
 const Projects = () => {
@@ -35,25 +35,25 @@ const Projects = () => {
                             </div>
                         </div>
                     </div>
-                    {/* second project */}
-                    <div style={{backgroundImage: `url(${AlofPizza})`}} 
+                    <div style={{backgroundImage: `url(${FolaBlog})`}} 
                     className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
 
 
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                            React Js Applicaton
+                            Next Js Applicaton
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href='https://pcezdv.csb.app/' target="_blank" >
+                                <a href='https://fola-dev.vercel.app/' target="_blank" >
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-blue-400 hover:text-white'>Demo</button>
                                 </a>
-                                <a href='https://github.com/Folanuel/AlofPizzeria' target="_blank">
+                                <a href='https://github.com/Folanuel/my-blog' target="_blank" >
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg hover:bg-blue-400 hover:text-white'>Code</button>
                                 </a>
                             </div>
                         </div>
                     </div>
+                    
                     
                 </div>
 

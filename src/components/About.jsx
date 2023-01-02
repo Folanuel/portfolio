@@ -18,8 +18,7 @@ const About = () => {
             </div>
             <div>
                 <p>
-                I am a French Toast 🍞lover and I am passionate about building efficient software that improves the lives of people. I also build responsive website and have implemented new
-                responsive website approach which increased mobile traffic by 20%. 
+                I am a French Toast 🍞lover and I am passionate about building efficient software that improves the lives of people. I build web apps that are responsive. 
                 </p>
             </div>
             </div>
